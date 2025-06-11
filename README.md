@@ -28,6 +28,7 @@ I'm a results-driven data analyst with 3.6+ years of experience transforming raw
 | Project | Description |
 |--------|-------------|
 | [Retail Customer Segmentation](https://github.com/hmunjampally/Customer-Segmentation) | Clustering 99K+ records by age and spend, visualized in Power BI |
+| [Retail Customer Segmentation Power BI & Tableau](https://github.com/hmunjampally/Retail-Customer-Segmentation-Dashboard-Dual-Implementation) | Clustering 99K+ records by age and spend, visualized in Tableau |
 | [Global Superstore Dashboard](https://github.com/hmunjampally/PowerBI-Dashboard) | Uncovered $156K in losses with region-wise sales drilldowns |
 | [Employee Management App](https://github.com/hmunjampally/Employee-Management-App) | Built in Power Apps with Excel backend and role-based views |
 | [Budgetpal](https://github.com/hmunjampally/Budgetpal) | Full-stack Python finance tracker with secure login and analytics |
