@@ -32,7 +32,7 @@ I'm a data analyst with 4+ years of experience converting raw data into impactfu
 
 | Project | Description |
 |--------|-------------|
-| [Brazilian_Olist_Churn-Retention]([https://github.com/hmunjampally/New_York_Yellow_Taxi_Q1](https://github.com/hmunjampally/Brazilian_Olist_Churn-Retention)) | This project answers that question end-to-end: from raw CSV files in AWS S3 to a ranked retention action list ready for a marketing team to act on today.|
+| [Brazilian_Olist_Churn-Retention](https://github.com/hmunjampally/Brazilian_Olist_Churn-Retention) | This project answers that question end-to-end: from raw CSV files in AWS S3 to a ranked retention action list ready for a marketing team to act on today.|
 | [NYC Yellow Taxi Trips (Q1 2024)](https://github.com/hmunjampally/New_York_Yellow_Taxi_Q1) | Analyzed 8.5M+ NYC taxi trips using MySQL, CTEs, and window functions to uncover duration, tip, and route trends. |
 | [Retail Customer Segmentation](https://github.com/hmunjampally/Customer-Segmentation) | Clustered 99K+ customer records by age/spend and visualized patterns in Power BI. |
 | [Retail Segmentation – Dual BI Implementation](https://github.com/hmunjampally/Retail-Customer-Segmentation-Dashboard-Dual-Implementation) | Built and compared Power BI and Tableau dashboards using identical clustered data. |
