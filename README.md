@@ -1,45 +1,98 @@
-# Hi, I'm Hima Sameera Munjampally 👋
+# Hima Sameera Munjampally
 
-🎯 **Data Analyst | SQL · Power BI · Python · Excel · Power Platform**  
-📍 Based in the U.S. | Authorized to work under OPT  
-📬 [Portfolio](https://himasameera.netlify.app) • [LinkedIn](https://www.linkedin.com/in/himasameeramunjampally/) • [Email](mailto:sameeramunjampally0235@gmail.com)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-MySQL%20%7C%20SQL%20Server-blue?logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-Reporting-yellow?logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-Data%20Processing-green?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-Advanced%20Analysis-brightgreen?logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-EDA-orange?logo=googlecolab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20Tools-ChatGPT%20%7C%20Prompting-lightgrey?logo=openai&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Power%20Apps-Low%20Code-purple?logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Automate-Workflow%20Automation-blue?logo=microsoft&logoColor=white"/>
-</p>
+**Data Analyst · Analytics Engineering · Cloud Pipelines**  
+📍 St. Louis, MO (USA) · Open to Remote / Hybrid · OPT Authorized  
+🌐 [Portfolio](https://himasameera.netlify.app) · [LinkedIn](https://www.linkedin.com/in/himasameeramunjampally/) · [Email](mailto:sameeramunjampally0235@gmail.com)
 
 ---
 
-I'm a data analyst with 4+ years of experience converting raw data into impactful insights across healthcare, telecom, and manufacturing. I specialize in:
+## About
 
-- 📊 Building dashboards with Power BI, Excel & DAX  
-- 🧠 Automating reporting & complex SQL workflows  
-- 🔁 Developing ETL pipelines with Python + SQL  
-- 🧩 Creating scalable low-code apps using Power Platform  
-- 🩺 Analyzing healthcare data (TruBridge externship): SDOH impact on diabetes outcomes  
-- 🤖 Using Google Colab & AI tools for EDA and insight generation
+Data Analyst with 4+ years delivering production reporting across telecom, healthcare, and operations. Recently expanded into cloud data engineering — end-to-end Medallion Architecture pipelines on Databricks and AWS S3 using Delta Lake, PySpark, and Unity Catalog. Targeting Data Analyst and Data Engineer roles where both skill sets add immediate value.
 
 ---
 
-## 📌 Featured Projects
+## Tech Stack
 
-| Project | Description |
-|--------|-------------|
-| [Brazilian_Olist_Churn-Retention](https://github.com/hmunjampally/Brazilian_Olist_Churn-Retention) | This project answers that question end-to-end: from raw CSV files in AWS S3 to a ranked retention action list ready for a marketing team to act on today.|
-| [NYC Yellow Taxi Trips (Q1 2024)](https://github.com/hmunjampally/New_York_Yellow_Taxi_Q1) | Analyzed 8.5M+ NYC taxi trips using MySQL, CTEs, and window functions to uncover duration, tip, and route trends. |
-| [Retail Customer Segmentation](https://github.com/hmunjampally/Customer-Segmentation) | Clustered 99K+ customer records by age/spend and visualized patterns in Power BI. |
-| [Retail Segmentation – Dual BI Implementation](https://github.com/hmunjampally/Retail-Customer-Segmentation-Dashboard-Dual-Implementation) | Built and compared Power BI and Tableau dashboards using identical clustered data. |
-| [Global Superstore Dashboard](https://github.com/hmunjampally/PowerBI-Global-Superstore-Dashboard) | Identified $156K in revenue leakage using dynamic KPI visuals and slicers. |
-| [Employee Management App](https://github.com/hmunjampally/Employee-Management-App) | Built a Power Apps-based app with Excel DB and role-based views for HR, Manager, Employee. |
-| [TruBridge Healthcare Externship – SDOH Impact Analysis (WIP)](https://github.com/hmunjampally/TruBridge-SDOH-Healthcare-Analysis) | Ongoing project analyzing SDOH impact on diabetes before/after COVID-19 using Power BI, SQL, Colab, and AI tools. |
+**Cloud & Data Engineering**  
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-1a56db?style=flat&logoColor=white)
+
+**Analytics & BI**  
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Power_Query-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 ---
 
-🔗 **Let’s connect or collaborate** — I’m open to healthcare data projects, Power BI reporting, or SQL-heavy analysis challenges.
+## Featured Project
+
+### [Brazilian E-Commerce Customer Retention Intelligence Platform](https://github.com/hmunjampally/Brazilian_Olist_Churn-Retention)
+
+> *"Of 93,000+ customers, which are most likely to never buy again — and how much revenue walks out the door if we do nothing?"*
+
+| Metric | Value |
+|--------|-------|
+| Customers analyzed | 93,360 |
+| Total platform revenue | R$15.42M |
+| **Revenue at risk** | **R$6.17M** |
+| Customers at risk | 37,340 |
+| Rows processed | 1.5M+ |
+
+**What I built:**
+- End-to-end Medallion Architecture pipeline (Bronze → Silver → Gold) on Databricks ingesting 1.5M+ rows from AWS S3 into managed Delta tables via Unity Catalog
+- RFM customer scoring using PySpark ntile(5) window functions — diagnosed and recalibrated segment thresholds for Olist's 95% single-purchase customer profile
+- Prioritized retention list of 37,340 at-risk customers ranked by composite recovery potential score with recommended action and channel per customer
+
+**Stack:** AWS S3 · Databricks · Delta Lake · Unity Catalog · PySpark · Spark SQL · Python · Databricks SQL Dashboards
+
+---
+
+## Other Projects
+
+| Project | Stack | Scale | What it does |
+|---------|-------|-------|--------------|
+| [Enterprise KPI Platform](https://github.com/hmunjampally/YOUR-SNOWFLAKE-REPO) | Snowflake · SQL · Power BI | — | Governed KPI layer with semantic views eliminating metric duplication across reporting teams |
+| [NYC Taxi Ops Analytics](https://github.com/hmunjampally/New_York_Yellow_Taxi_Q1) | MySQL · Python · Power BI | 8.5M rows | Peak-hour and zone KPIs on star schema — identified 3 clusters driving 60% of daily revenue |
+| [Retail Customer Segmentation](https://github.com/hmunjampally/Retail-Customer-Segmentation) | Python · Pandas · Power BI · Tableau | 99K records | K-Means clustering — distinguished high-frequency low-spend from low-frequency high-spend segments |
+| [TruBridge SDOH Analysis](https://github.com/hmunjampally/TruBridge-SDOH-Healthcare-Analysis) | SQL · Python · Power BI | — | SDOH impact on diabetes outcomes before/after COVID-19 — healthcare externship project |
+
+---
+
+## Experience
+
+**Data Analyst — Caprus IT Inc** *(Apr 2025 – Present · Remote, USA)*  
+Production dashboards, KPI governance, cross-system reconciliation on SAP extracts and operational sources
+
+**Healthcare Analytics Extern — TruBridge** *(Jul 2025 – Sep 2025 · USA)*  
+Healthcare encounter and claims data validation for operational reporting consistency
+
+**Systems Engineer → Senior Systems Engineer — Infosys / Telstra** *(Aug 2020 – Dec 2022 · Hyderabad)*  
+Telecom KPI reporting in SLA-governed environments for a 22M+ customer network
+- Infosys Best Rookie of the Quarter · Applause Award
+  
+**Graduate Engineer → Data Analyst — ACC Limited** *(Jun 2019 – Feb 2020 · Hyderabad)*  
+Production analytics, variance reporting, threshold monitoring across 3 plant locations
+
+---
+
+## Certifications
+
+- Microsoft Power BI Data Analyst Professional Certificate — Coursera
+- SQL Gold Badge — HackerRank  
+- Microsoft Fabric Data Engineer Associate (DP-700) — *In Progress, May 2026*
+
+---
+
+## Education
+
+**MS Computer Science** — Saint Louis University, St. Louis, MO
+
+---
+
+*Open to Data Analyst, Senior DA, and Data Engineer roles — remote or hybrid preferred*
