@@ -8,7 +8,7 @@
 
 ## About
 
-Data Analyst with 4+ years delivering production reporting across telecom, healthcare, and operations. Recently expanded into cloud data engineering — end-to-end Medallion Architecture pipelines on Databricks and AWS S3 using Delta Lake, PySpark, and Unity Catalog. Targeting Data Analyst and Data Engineer roles where both skill sets add immediate value.
+Data Analyst with 5 years delivering production reporting across telecom, healthcare, and operations. Recently expanded into cloud data engineering — end-to-end Medallion Architecture pipelines on Databricks and AWS S3 using Delta Lake, PySpark, and Unity Catalog. Targeting Data Analyst and Data Engineer roles where both skill sets add immediate value.
 
 ---
 
