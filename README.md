@@ -2,7 +2,7 @@
 
 **Data Analyst · Analytics Engineering · Cloud Pipelines**  
 📍 St. Louis, MO (USA) · Open to Remote / Hybrid · OPT Authorized  
-🌐 [Portfolio](https://himasameera.netlify.app) · [LinkedIn](https://www.linkedin.com/in/himasameeramunjampally/) · [Email](mailto:sameeramunjampally0235@gmail.com)
+🌐 [Portfolio](https://himasameera.netlify.app) · [LinkedIn](https://www.linkedin.com/in/himasameeramunjampally/) · [Email](mailto:himasameera99@gmail.com)
 
 ---
 
