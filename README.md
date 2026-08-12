@@ -66,7 +66,7 @@ Data Analyst with 5 years delivering production reporting across telecom, health
 
 ## Experience
 
-**Data Analyst — Caprus IT Inc** *(Apr 2025 – Present · Remote, USA)*  
+**Data Analyst — Charles Schwab ** *(Apr 2025 – Present · St. Louis, MO, USA)*  
 Production dashboards, KPI governance, cross-system reconciliation on SAP extracts and operational sources
 
 **Healthcare Analytics Extern — TruBridge** *(Jul 2025 – Sep 2025 · USA)*  
