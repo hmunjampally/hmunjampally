@@ -95,4 +95,4 @@ Production analytics, variance reporting, threshold monitoring across 3 plant lo
 
 ---
 
-*Open to Data Analyst, Senior DA, and Data Engineer roles — remote or hybrid preferred*
+*Open to Data Analyst, Senior DA, and Data Engineer roles*
