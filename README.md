@@ -1,4 +1,4 @@
-# Hima Sameera Munjampally
+# Hima Sameera Munjampally &nbsp; <img src="MS%20Badge.png" alt="DP-700" width="80"/>
 
 **Data Analyst · Analytics Engineering · Cloud Pipelines**  
 📍 St. Louis, MO (USA) · Open to Remote / Hybrid · OPT Authorized  
