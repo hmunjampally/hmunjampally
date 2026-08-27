@@ -8,13 +8,14 @@
 
 ## About
 
-Data Analyst with 5 years delivering production reporting across telecom, healthcare, and operations. Recently expanded into cloud data engineering — end-to-end Medallion Architecture pipelines on Databricks and AWS S3 using Delta Lake, PySpark, and Unity Catalog. Targeting Data Analyst and Data Engineer roles where both skill sets add immediate value.
+Data Analyst with 5 years delivering production reporting across telecom, healthcare, and operations. Recently expanded into cloud data engineering — end-to-end Medallion Architecture pipelines on Databricks and AWS S3 using Delta Lake, PySpark, and Unity Catalog. Holding the **Microsoft Certified: Fabric Data Engineer Associate (DP-700)** credential, with hands-on experience building and optimizing data engineering solutions on Microsoft Fabric. Targeting Data Analyst and Data Engineer roles where both skill sets add immediate value.
 
 ---
 
 ## Tech Stack
 
 **Cloud & Data Engineering**  
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazons3&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat&logoColor=white)
@@ -75,7 +76,7 @@ Healthcare encounter and claims data validation for operational reporting consis
 **Data Analyst → Senior Data Analyst — Infosys / Telstra** *(Aug 2020 – Dec 2022 · Hyderabad)*  
 Telecom KPI reporting in SLA-governed environments for a 22M+ customer network
 - Infosys Best Rookie of the Quarter · Applause Award
-  
+
 **Graduate Engineer → Data Analyst — ACC Limited** *(Jun 2019 – Feb 2020 · Hyderabad)*  
 Production analytics, variance reporting, threshold monitoring across 3 plant locations
 
@@ -83,9 +84,11 @@ Production analytics, variance reporting, threshold monitoring across 3 plant lo
 
 ## Certifications
 
-- Microsoft Power BI Data Analyst Professional Certificate — Coursera
-- SQL Gold Badge — HackerRank  
-- Microsoft Fabric Data Engineer Associate (DP-700) — *In Progress, May 2026*
+| Certification | Issuer | Earned |
+|--------------|--------|--------|
+| **Microsoft Certified: Fabric Data Engineer Associate (DP-700)** | Microsoft | Aug 2026 |
+| Microsoft Power BI Data Analyst Professional Certificate | Microsoft / Coursera | Jun 2025 |
+| SQL Gold Badge | HackerRank | — |
 
 ---
 
