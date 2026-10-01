@@ -1,7 +1,7 @@
 # Hima Sameera Munjampally &nbsp; <img src="MS%20Badge.png" alt="DP-700" width="80"/>
 
 **Data Analyst · Analytics Engineering · Cloud Pipelines**  
-USA · Open to Onsite / Remote / Hybrid · OPT Authorized . [Email](mailto:himasameera99@gmail.com)
+[Email](mailto:himasameera99@gmail.com) · USA · Open to Onsite / Remote / Hybrid · OPT Authorized
 
 ---
 
