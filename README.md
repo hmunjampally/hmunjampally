@@ -1,13 +1,13 @@
 # Hima Sameera Munjampally &nbsp; <img src="MS%20Badge.png" alt="DP-700" width="80"/>
 
-**Data Analyst · Analytics Engineering · Cloud Pipelines**  
+**Data Analytics Engineering · Cloud Pipelines**  
 [Email](mailto:himasameera99@gmail.com) · USA · Open to Onsite / Remote / Hybrid · OPT Authorized
 
 ---
 
 ## About
 
-Data Analyst with 5 years delivering production reporting across telecom, healthcare, and operations. Recently expanded into cloud data engineering — end-to-end Medallion Architecture pipelines on Databricks and AWS S3 using Delta Lake, PySpark, and Unity Catalog. Holding the **Microsoft Certified: Fabric Data Engineer Associate (DP-700)** credential, with hands-on experience building and optimizing data engineering solutions on Microsoft Fabric. Targeting Data Analyst and Data Engineer roles where both skill sets add immediate value.
+Data Analyst with 6 years delivering production reporting across telecom, healthcare, and operations. Recently expanded into cloud data engineering — end-to-end Medallion Architecture pipelines on Databricks and AWS S3 using Delta Lake, PySpark, and Unity Catalog. Holding the **Microsoft Certified: Fabric Data Engineer Associate (DP-700)** credential, with hands-on experience building and optimizing data engineering solutions on Microsoft Fabric. Targeting Data Analyst and Data Engineer roles where both skill sets add immediate value.
 
 ---
 
