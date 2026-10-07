@@ -69,7 +69,7 @@ Data Analyst with 6 years delivering production reporting across telecom, health
 **Data Analyst — Charles Schwab** *(Apr 2025 – Present · St. Louis, MO, USA)*  
 Production dashboards, KPI governance, cross-system reconciliation on SAP extracts and operational sources
 
-**Healthcare Analytics Extern — TruBridge** *(Dec 2024 – Sep 2025 · USA)*  
+**Healthcare Analytics Extern — TruBridge** *(Dec 2024 – April 2025 · USA)*  
 Healthcare encounter and claims data validation for operational reporting consistency
 
 **Data Analyst → Senior Data Analyst — Infosys / Telstra** *(Aug 2020 – Dec 2022 · Hyderabad)*  
